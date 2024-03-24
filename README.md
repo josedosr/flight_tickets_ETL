@@ -37,7 +37,7 @@ Join us on this exciting journey as we explore and analyze travel data to discov
 
 ## Contact
 
-If you have any questions or comments about the operation of the Spytify page, feel free to contact us.
+If you have any questions or comments about the operation of ETL process, feel free to contact us.
 
 ---
 # Our Amazing Development Team! :rocket:
